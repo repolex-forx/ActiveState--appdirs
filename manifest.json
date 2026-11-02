@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "ActiveState",
+  "repo": "appdirs",
+  "versions": [
+    {
+      "commit": "8734277956c1df3b85385e6b308e954910533884",
+      "parsed_at": "2026-11-02T21:11:13.836009+00:00",
+      "filetree": "filetree/8734277956c1df3b85385e6b308e954910533884.nq.gz",
+      "blobs": [
+        "blob/2a9acf13daa95e85642ea255d3e3bd1ef8252804.nq.gz",
+        "blob/08abda83be0b6c397151096d85541c44d9b91fdb.nq.gz",
+        "blob/f98b053adb45f9d2dc8c602bbc3ae9bf46fb8162.nq.gz",
+        "blob/e4d3ae044b44a23578e4c7e096378344ec35bc4b.nq.gz",
+        "blob/a9380b7a4534b0574b46e23bd4d364b9f879f819.nq.gz",
+        "blob/52e59c0fca89e305093bcb10b83d0ba22eb74bee.nq.gz",
+        "blob/8c89fb278cbf8774397b7a009426f784fa2ee949.nq.gz",
+        "blob/9db7e4e23e96df44dca48c48f245d095cdaa1da8.nq.gz",
+        "blob/6c3ac1b1dbb7d4d063c551440decd1178d09c012.nq.gz",
+        "blob/b78eeda4267eee2d83688f6c50f43da0acaac744.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/9bef3459aef5eed453714a5ed140a9f84aff6533.nq.gz",
+        "blob/f99fdbfdcb0ef39fcae170da02825a6c836dd01e.nq.gz",
+        "blob/ed62d98536387fd1c7698b91ca115536b7638a15.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
