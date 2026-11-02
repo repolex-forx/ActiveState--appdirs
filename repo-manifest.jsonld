@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ActiveState/appdirs/commit/8734277956c1df3b85385e6b308e954910533884",
       "git:hexsha": "8734277956c1df3b85385e6b308e954910533884",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ActiveState/appdirs/commit/ea16003f987b414e5fc3146c9159093ab83dabc5",
