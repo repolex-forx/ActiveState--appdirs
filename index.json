@@ -1,0 +1,11 @@
+{
+  "org": "ActiveState",
+  "repo": "appdirs",
+  "versions": [
+    {
+      "commit": "8734277956c1df3b85385e6b308e954910533884",
+      "tag": "",
+      "parsed_at": "2026-11-02T21:13:52.751263+00:00"
+    }
+  ]
+}
